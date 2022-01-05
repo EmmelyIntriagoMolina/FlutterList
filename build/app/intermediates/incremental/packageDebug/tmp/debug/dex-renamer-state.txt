@@ -1,0 +1,4 @@
+#Tue Dec 21 15:23:03 COT 2021
+base.0=D\:\\Data_User\\Docu\\UNIVERSIDAD\\FlutterCarp\\flutter-ejercicio-5-listview\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
